@@ -1,2 +1,10 @@
-#!/bin/bash
-gcc -E $cfile -o c
+#include<stdio.h>
+/**
+ * Main - Entry
+ *
+ * Return: Always 0 (Success)
+ */
+ int main(void)
+ {
+	 return(0);
+ }	
