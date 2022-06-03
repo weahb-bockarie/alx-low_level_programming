@@ -5,6 +5,7 @@
 /**
  * Main - Print "is positive" if randomly generated number is greater
  *than zero print "is zero" if it equals to zero or "is negative"if it is less than zero
+ *
  * Return: Always 0 (Success)
  */
 
