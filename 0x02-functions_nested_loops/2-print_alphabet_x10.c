@@ -1,11 +1,20 @@
 #include"main.h"
 /**
- * add - a function that add two intergers and returens
- * @one: first number input
- * @two: second number input
- * Return: one + two
+ * print_alphabet_x10 - a function tha print 10 times the alphaet
+ *
+ * Return : x10 a-z
  */
-int add(int  one , int two);
+void print_alphabet_x10(void)
 {
-	return(one + two);
+	char alpha, co;
+	co = 0;
+	while(co < 10)
+	{
+		for (alpha = 'a'; <= 'z'; alpha++)
+		{
+			_putchar (alpha);
+		}
+	co++;
+	_putchar('\n);
+	}
 }
