@@ -1,14 +1,20 @@
 #include<stdio.h>
 
 /**
- * main - entry print _putchar
- *
- * folloewd by a new line
+ * Main -Entry point
  *
  * Return: Always 0 (Successful)
  */
  int main(void)
 {
-	printf("_putchar\n");
+	putchar(");
+	_putchar('p');
+	_putchar('u');
+	_putchar('t')
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('r');
+	_putchar('\n');
 	return (0);
 }
