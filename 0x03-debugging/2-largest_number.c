@@ -2,7 +2,7 @@
 
 /**
  * large_number - return the largest of 3 numbers
- * @a: firstinterget
+ * @a:first interget
  * @b:second interger
  * @c:third interger
  *
