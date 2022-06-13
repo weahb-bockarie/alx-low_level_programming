@@ -1,1 +1,1 @@
-c programming
+I can do hard things
