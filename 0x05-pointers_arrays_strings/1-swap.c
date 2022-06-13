@@ -5,7 +5,7 @@
  * @n: first int to swap
  * @b: second int to swap
  *
- * return : void
+ * Return: void
  */
 void swap_int(int *a, int *b)
 {
